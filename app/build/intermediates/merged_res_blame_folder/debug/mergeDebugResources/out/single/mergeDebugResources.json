@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\drawable_ic_delete_24.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\drawable\\ic_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\drawable_bg_gradient.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\drawable_ic_add_24.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\drawable\\ic_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\drawable_ic_close_24.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\drawable\\ic_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\layout_item_note.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\layout\\item_note.xml"
+    },
+    {
+        "merged": "com.example.note_takingapp-debug-41:/layout_item_note.xml.flat",
+        "source": "com.example.note_takingapp-main-43:/layout/item_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\layout_activity_add_note.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.11.1\\com.example.note_takingapp-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
